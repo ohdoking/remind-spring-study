@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: RemindSpring
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ohdoking
+Implementation-Vendor-Id: com.ohdoking
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/remind-sprin
+ g-project/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
